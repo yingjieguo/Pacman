@@ -1,5 +1,6 @@
 # Pacman
 
+Group Project wrote by Wenjia Zhang and Yingjie Guo
 	Designed Pacman agents which can rationally eat all dots and avoid ghosts at the same time. 
   
 	Search down the road: used depth-first, breadth-first, uniform cost, and A* search algorithms to 
